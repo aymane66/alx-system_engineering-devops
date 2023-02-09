@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m -P -a -X -v
+ls -pvam
