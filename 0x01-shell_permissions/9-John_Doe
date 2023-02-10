@@ -1,2 +1,2 @@
-sudo chmod 752 hello
+#!/bin/bash
 sudo chmod 752 hello
